@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+ul li{display: inline-block;
+padding: 10px;
+background-color: aqua;
+list-style: none;
+cursor: pointer;
+}
+
+ul li:hover{background-color: blue;
+color: white;
+}
+
